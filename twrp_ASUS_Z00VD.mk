@@ -15,7 +15,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/asus/ASUS_Z00VD/device.mk)
 
 PRODUCT_DEVICE := ASUS_Z00VD
-PRODUCT_NAME := omni_ASUS_Z00VD
+PRODUCT_NAME := twrp_ASUS_Z00VD
 PRODUCT_BRAND := asus
 PRODUCT_MODEL := ASUS_Z00VD
 PRODUCT_MANUFACTURER := asus
