@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_ASUS_Z00VD.mk
+    $(LOCAL_DIR)/twrp_ASUS_Z00VD.mk
 
 COMMON_LUNCH_CHOICES := \
     omni_ASUS_Z00VD-user \
